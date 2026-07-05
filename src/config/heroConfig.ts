@@ -6,7 +6,7 @@ export const heroConfig = {
     line2: "Cada consulta é um momento de",
     line3: "acolhimento e reflexão."
   },
-  subtitle: "Consultas online por videochamada ou chamada de voz, realizadas com respeito, sigilo e atenção às suas necessidades. Agende seu horário por apenas ",
+  subtitle: "Consultas por videochamada ou presencialmente, realizadas com respeito, sigilo e atenção às suas necessidades. Agende seu horário por apenas ",
   subtitleHighlight: "R$ 30,00",
   video: {
     desktop: "/videos/hero-desktop.mp4",

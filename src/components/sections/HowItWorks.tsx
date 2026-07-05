@@ -22,7 +22,7 @@ export const HowItWorks = () => {
     {
       icon: Video,
       title: "4. A Consulta",
-      desc: "No horário marcado, iniciaremos nossa videochamada ou chamada de voz."
+      desc: "No horário marcado, iniciaremos nossa videochamada ou presencialmente."
     }
   ];
 

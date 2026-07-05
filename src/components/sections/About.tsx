@@ -25,7 +25,7 @@ export const About = () => {
           <FadeIn direction="left">
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-medium mb-6 md:mb-8 text-balance">Seu momento de acolhimento</h2>
             <p className="text-base sm:text-lg text-text-main/80 mb-8 leading-relaxed text-balance">
-              Cada consulta é realizada individualmente, respeitando seu momento, suas dúvidas e seu tempo. O atendimento acontece por videochamada ou chamada de voz, em um ambiente reservado, acolhedor e com total sigilo.
+              Cada consulta é realizada individualmente, respeitando seu momento, suas dúvidas e seu tempo. O atendimento acontece por videochamada ou presencialmente, em um ambiente reservado, acolhedor e com total sigilo.
             </p>
             
             <div className="space-y-4 md:space-y-6">

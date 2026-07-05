@@ -6,6 +6,7 @@
 import { Hero } from './components/sections/hero/Hero';
 import { VideoSection } from './components/sections/VideoSection';
 import { About } from './components/sections/About';
+import { ArcanaGallery } from './components/sections/arcana/ArcanaGallery';
 import { HowItWorks } from './components/sections/HowItWorks';
 import { Services } from './components/sections/Services';
 import { Pricing } from './components/sections/Pricing';
@@ -65,6 +66,7 @@ export default function App() {
           <Hero />
           <VideoSection />
           <About />
+          <ArcanaGallery />
           <HowItWorks />
           <Services />
           <Pricing />

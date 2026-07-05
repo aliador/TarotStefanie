@@ -15,7 +15,7 @@ const faqs = [
   },
   {
     q: "Como funciona a consulta?",
-    a: "No horário agendado, realizaremos uma videochamada ou chamada de voz (conforme sua preferência). A leitura é feita ao vivo, de forma interativa e focada no seu momento."
+    a: "No horário agendado, realizaremos uma videochamada ou presencialmente (conforme sua preferência). A leitura é feita ao vivo, de forma interativa e focada no seu momento."
   },
   {
     q: "Posso remarcar?",
