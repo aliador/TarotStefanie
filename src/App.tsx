@@ -15,7 +15,6 @@ import { Footer } from './components/sections/Footer';
 import { HeroWhatsApp } from './components/sections/hero/HeroWhatsApp';
 import { BookingProvider } from './context/BookingContext';
 import { BookingModal } from './components/ui/BookingModal';
-import { TarotReading } from './components/sections/tarot/TarotReading';
 import heroImage from './components/imagem2.jpg';
 import mobileBgImage from './components/imagem3.png';
 
@@ -66,7 +65,6 @@ export default function App() {
           <Hero />
           <VideoSection />
           <About />
-          <TarotReading />
           <HowItWorks />
           <Services />
           <Pricing />
